@@ -1,0 +1,17 @@
+=== RESULTADOS YOLOv8n ===
+
+Data de execução: 2025-10-07 20:08:06
+
+=== Validação ===
+metrics/precision(B): 0.6650793938712264
+metrics/recall(B): 0.7839553689396555
+metrics/mAP50(B): 0.7623112570736778
+metrics/mAP50-95(B): 0.4196665430857391
+fitness: 0.4196665430857391
+
+=== Teste ===
+metrics/precision(B): 0.84276714877219
+metrics/recall(B): 0.8343277873398355
+metrics/mAP50(B): 0.8740826564150183
+metrics/mAP50-95(B): 0.5005861402159315
+fitness: 0.5005861402159315
